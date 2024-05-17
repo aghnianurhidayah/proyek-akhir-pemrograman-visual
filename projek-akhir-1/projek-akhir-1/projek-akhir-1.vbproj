@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9710A7AF-0BB1-4FAE-B795-5DFFBEE37689}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>projek_akhir_1.My.MyApplication</StartupObject>
+    <RootNamespace>projek_akhir_1</RootNamespace>
+    <AssemblyName>projek-akhir-1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>projek-akhir-1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>projek-akhir-1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="mysql.data">
+      <HintPath>D:\Compressed\mysql-connector-net-6.6.4-noinstall\v4\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="certificate.Designer.vb">
+      <DependentUpon>certificate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="certificate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dataVaksinasi.Designer.vb">
+      <DependentUpon>dataVaksinasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dataVaksinasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="detailsAdmin.Designer.vb">
+      <DependentUpon>detailsAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="detailsAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="detailsUser.Designer.vb">
+      <DependentUpon>detailsUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="detailsUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form.Designer.vb">
+      <DependentUpon>form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="history.Designer.vb">
+      <DependentUpon>history.vb</DependentUpon>
+    </Compile>
+    <Compile Include="history.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="landing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="landing.Designer.vb">
+      <DependentUpon>landing.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuAdmin.Designer.vb">
+      <DependentUpon>menuAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menuAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuUser.Designer.vb">
+      <DependentUpon>menuUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menuUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="regis.Designer.vb">
+      <DependentUpon>regis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="regis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tentang.Designer.vb">
+      <DependentUpon>tentang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tentang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vaccine.vb" />
+    <Compile Include="verify.Designer.vb">
+      <DependentUpon>verify.vb</DependentUpon>
+    </Compile>
+    <Compile Include="verify.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="certificate.resx">
+      <DependentUpon>certificate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dataVaksinasi.resx">
+      <DependentUpon>dataVaksinasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="detailsAdmin.resx">
+      <DependentUpon>detailsAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="detailsUser.resx">
+      <DependentUpon>detailsUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form.resx">
+      <DependentUpon>form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="history.resx">
+      <DependentUpon>history.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="landing.resx">
+      <DependentUpon>landing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuAdmin.resx">
+      <DependentUpon>menuAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuUser.resx">
+      <DependentUpon>menuUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="regis.resx">
+      <DependentUpon>regis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tentang.resx">
+      <DependentUpon>tentang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="verify.resx">
+      <DependentUpon>verify.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desain tanpa judul %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4999291-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forms-cuate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\File searching-cuate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Certification-pana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vaccine-cuate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Confirmed-cuate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\M %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-back-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forms-cuate1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vaccine-cuate1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Certification-cuate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

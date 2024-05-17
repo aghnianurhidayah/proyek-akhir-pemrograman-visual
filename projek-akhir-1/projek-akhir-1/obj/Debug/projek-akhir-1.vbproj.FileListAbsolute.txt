@@ -1,0 +1,114 @@
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.exe.config
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.exe
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.pdb
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.xml
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.login.resources
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.Resources.resources
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.exe
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.xml
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.pdb
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.landing.resources
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.regis.resources
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.form.resources
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.menuuser.resources
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.detailsUser.resources
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.history.resources
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.certificate.resources
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.menuAdmin.resources
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.dataVaksinasi.resources
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.detailsAdmin.resources
+D:\Kuliah\Semester 4\Pemrograman Visual\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.verify.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.exe.config
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.exe
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.xml
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.pdb
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.exe
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.pdb
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.xml
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\bin\Debug\mysql.data.dll
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.vbprojResolveAssemblyReference.cache
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.certificate.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.dataVaksinasi.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.detailsAdmin.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.detailsUser.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.form.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.history.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.landing.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.login.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.menuAdmin.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.menuuser.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.Resources.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.regis.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.verify.resources
+C:\Users\MSI\Downloads\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.vbproj.GenerateResource.Cache
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.exe.config
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.exe
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.xml
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.pdb
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.exe
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.pdb
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.xml
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.vbprojResolveAssemblyReference.cache
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.certificate.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.dataVaksinasi.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.detailsAdmin.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.detailsUser.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.form.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.history.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.landing.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.login.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.menuAdmin.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.menuuser.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.Resources.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.regis.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.verify.resources
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.vbproj.GenerateResource.Cache
+D:\project\smt4\pemvis\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.tentang.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.exe.config
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.exe
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.xml
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.pdb
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.exe
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.pdb
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.xml
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.certificate.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.dataVaksinasi.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.detailsAdmin.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.detailsUser.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.form.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.history.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.landing.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.login.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.menuAdmin.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.menuuser.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.Resources.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.regis.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.tentang.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.verify.resources
+D:\Kuliah\Praktikum\Pemrograman Visual\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.vbproj.GenerateResource.Cache
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.exe.config
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.exe
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.xml
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.pdb
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.exe
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.pdb
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\bin\Debug\projek-akhir-1.xml
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\bin\Debug\mysql.data.dll
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.vbprojResolveAssemblyReference.cache
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.certificate.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.dataVaksinasi.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.detailsAdmin.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.detailsUser.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.form.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.history.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.landing.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.login.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.menuAdmin.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.menuuser.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.Resources.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.regis.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.tentang.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek_akhir_1.verify.resources
+C:\Users\MSI\Downloads\PA-K2-A22\projek-akhir-1\projek-akhir-1\obj\Debug\projek-akhir-1.vbproj.GenerateResource.Cache
